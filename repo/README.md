@@ -67,7 +67,6 @@ MP3 · M4A · AAC · WAV · FLAC · Opus · OGG · WMA · AC3 · **AMR** · **M4
 | 平台 | 文件 | 大小 | 说明 |
 |---|---|---|---|
 | Windows | `MediaConv-Setup-1.0.0.exe` | 约 133 MB | 安装包，可创建快捷方式与右键菜单 |
-| Windows | `MediaConv-Portable-1.0.0.zip` | 约 190 MB | 免安装绿色版，解压即用 |
 | Android | `MediaConv-Android-1.0.0.apk` | 约 65 KB | 要求 Android 7.0（API 24）及以上 |
 
 > **Windows 提示**：程序未做代码签名，SmartScreen 可能提示"未知发布者"，
